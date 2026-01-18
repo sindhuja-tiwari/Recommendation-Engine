@@ -21,7 +21,6 @@ Scalable architecture with sparse matrices
 
 📊 Dataset
 Uses the MovieLens dataset from Kaggle: https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset
-
 20M ratings from 138,000 users on 27,000 movies
 Rich metadata including genres, tags, and timestamps
-Download: 
+
